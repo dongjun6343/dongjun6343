@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343)](https://github.com/dongjun6343/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343&theme=dark&show_icons=true)](https://github.com/dongjun6343/github-readme-stats)
+
 <!--
 **dongjun6343/dongjun6343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
