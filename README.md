@@ -4,38 +4,27 @@
 #### 그날그날 내가 공부한 것을 정리하자.
 
 ### 🌱 Study
-<div align="center">
   <img src="https://img.shields.io/badge/-Kafka-FFCA28?logo=Kafka&logoColor=">
-</div>
-
-### 📫 Skill
-<div align="center">
-  <!-- 스프링 -->
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/-Spring security-6DB33F?logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white">
   
+### 📫 Skill  
   <!-- 자바 -->
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=">
   <img src="https://img.shields.io/badge/-JSP-007396?logo=java&logoColor=">
-  <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"><br>
-  
-  <img src="https://img.shields.io/badge/-Apache tomcat-F8DC75?logo=apachetomcat&logoColor=black">
   <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=">
-</div>
 
 ### 🛠️ Tool
-<div align="center">
-  IDE:
+
+  <!-- IDE -->
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=">
   
-  DB툴:
+  <!-- DB툴 -->
   <img src="https://img.shields.io/badge/-SQL Developer-F80000?logo=oracle&logoColor=">
-  <img src="https://img.shields.io/badge/-MySQL Workbench-4479A1?logo=MySQL&logoColor=white"><br>
+
   
-  버전관리:
+  <! -- 버전관리 -->
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-SVC-FF3E00?logo=GitHub&logoColor=white">
-</div>
+  <img src="https://img.shields.io/badge/-SVC-FF3E00?logo=SVC&logoColor=white">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343&theme=buefy&show_icons=true)](https://github.com/dongjun6343/github-readme-stats)
