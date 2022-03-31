@@ -4,14 +4,11 @@
 #### 그날그날 내가 공부한 것을 정리하자.
 
 ### 🌱 Study
-  <img src="https://img.shields.io/badge/-Kafka-FFCA28?logo=Kafka&logoColor=">
-  <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/-Kafka-231F20?logo=Kafka&logoColor="><img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white">
+
 ### 📫 Skill  
   <!-- 자바 -->
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=">
-  <img src="https://img.shields.io/badge/-JSP-007396?logo=java&logoColor=">
-  <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor="><img src="https://img.shields.io/badge/-JSP-007396?logo=java&logoColor="><img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=">
 
 ### 🛠️ Tool
 
@@ -22,9 +19,8 @@
   <img src="https://img.shields.io/badge/-SQL Developer-F80000?logo=oracle&logoColor=">
 
   
-  <! -- 버전관리 -->
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-SVC-FF3E00?logo=SVC&logoColor=white">
+  <!-- 버전관리 -->
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"><img src="https://img.shields.io/badge/-SVC-FF3E00?logo=SVC&logoColor=white">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343&theme=buefy&show_icons=true)](https://github.com/dongjun6343/github-readme-stats)
