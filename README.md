@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Dongjun.
 
 
-#### ✨ 기억보단 기록 ✨
-#### 📍 Today I Learned. 그날그날 내가 공부한 것을 정리하자!
+#### 기억보단 기록
+#### Today I Learned. 그날그날 내가 공부한 것을 정리하자!
 
 
 ### 🌱 Study
@@ -25,6 +25,7 @@
   <!-- 버전관리 -->
   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-SVC-FF3E00?logo=SVC&logoColor=white">
 
+<br>
 
 ### 📖 Certificate
 
