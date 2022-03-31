@@ -1,5 +1,4 @@
-### Hi there 👋 My name is Dongjun. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjun6343&count_bg=%233DC7C8&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dongjun6343)
-
+### Hi there 👋 My name is Dongjun. 
 
 <br>
 
@@ -45,6 +44,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343&theme=buefy&show_icons=true)](https://github.com/dongjun6343/github-readme-stats)
 
+<br>
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjun6343&count_bg=%233DC7C8&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dongjun6343)
 
 
 
