@@ -4,7 +4,7 @@
 #### 📍 Today I Learned. 그날그날 내가 공부한 것을 정리하자!
 
 ### 🌱 Study
-<img src="https://img.shields.io/badge/-Spring-#6DB33F?logo=Spring&logoColor="> <img src="https://img.shields.io/badge/-Kafka-231F20?logo=Apache Kafka&logoColor="> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor="> <img src="https://img.shields.io/badge/-Kafka-231F20?logo=Apache Kafka&logoColor="> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"> 
 
 ### 📫 Skill  
   <!-- 자바 -->
@@ -21,9 +21,6 @@
   <!-- 버전관리 -->
   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-SVC-FF3E00?logo=SVC&logoColor=white">
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343&theme=buefy&show_icons=true)](https://github.com/dongjun6343/github-readme-stats)
-
 📖 Certificate
 
 |Certificate|Date|Organization|
@@ -31,7 +28,7 @@
 |SQL Developer|2021.06|한국데이터산업진흥원|
 |정보처리기사|2019.05|한국산업인력공단|
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343&theme=buefy&show_icons=true)](https://github.com/dongjun6343/github-readme-stats)
 
 <!--
 **dongjun6343/dongjun6343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
