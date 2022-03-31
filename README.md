@@ -1,12 +1,10 @@
-### Hi there 👋 My name is Dongjun.
+### Hi there 👋 My name is Dongjun. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjun6343&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <br>
 
 #### ✨ 기억보단 기록
 #### ✨ Today I Learned. 그날그날 내가 공부한 것을 정리하자! [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dongjun6343.github.io/)](https://dongjun6343.github.io/)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjun6343&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <br>
