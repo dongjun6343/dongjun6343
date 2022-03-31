@@ -1,17 +1,16 @@
 ### Hi there 👋 My name is Dongjun.
 
-#### 기억보단 기록
-#### 그날그날 내가 공부한 것을 정리하자.
+#### 📍 기억보단 기록
+#### 📍 Today I Learned. 그날그날 내가 공부한 것을 정리하자!
 
 ### 🌱 Study
-  <img src="https://img.shields.io/badge/-Kafka-231F20?logo=Apache Kafka&logoColor="> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/-Spring-#6DB33F?logo=Spring&logoColor="> <img src="https://img.shields.io/badge/-Kafka-231F20?logo=Apache Kafka&logoColor="> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"> 
 
 ### 📫 Skill  
   <!-- 자바 -->
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor="> <img src="https://img.shields.io/badge/-JSP-007396?logo=java&logoColor="> <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=">
 
 ### 🛠️ Tool
-
   <!-- IDE -->
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=">
   
@@ -24,6 +23,13 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343&theme=buefy&show_icons=true)](https://github.com/dongjun6343/github-readme-stats)
+
+📖 Certificate
+
+|Certificate|Date|Organization|Note|
+|:---:|:---:|:---:|:---:|
+|SQL Developer|2021.06|한국데이터산업진흥원|-------------------------------------|
+|정보처리기사|2019.05|한국산업인력공단|-------------------------------------|
 
 
 
