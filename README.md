@@ -4,17 +4,38 @@
 #### 그날그날 내가 공부한 것을 정리하자.
 
 ### 🌱 Study
-<img src="https://img.shields.io/badge/Kafka-FFCA28?style=flat-square&logo=#231F20&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-FFCA28?style=flat-square&logo=#6DB33F&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-FFCA28?style=flat-square&logo=#1071D3&logoColor=white"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Kafka-FFCA28?logo=Kafka&logoColor=">
+</div>
 
 ### 📫 Skill
-<img src="https://img.shields.io/badge/JAVA-FFCA28?style=flat-square&logo=##007396&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-FFCA28?style=flat-square&logo=#F7DF1E&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-FFCA28?style=flat-square&logo=#4A154B&logoColor=white"/>
+<div align="center">
+  <!-- 스프링 -->
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring security-6DB33F?logo=springsecurity&logoColor=white">
+  
+  <!-- 자바 -->
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=">
+  <img src="https://img.shields.io/badge/-JSP-007396?logo=java&logoColor=">
+  <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"><br>
+  
+  <img src="https://img.shields.io/badge/-Apache tomcat-F8DC75?logo=apachetomcat&logoColor=black">
+  <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=">
+</div>
 
 ### 🛠️ Tool
-  - IDE : <img src="https://img.shields.io/badge/Eclipse-FFCA28?style=flat-square&logo=#2C2255&logoColor=grey"/>
+<div align="center">
+  IDE:
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=">
+  
+  DB툴:
+  <img src="https://img.shields.io/badge/-SQL Developer-F80000?logo=oracle&logoColor=">
+  <img src="https://img.shields.io/badge/-MySQL Workbench-4479A1?logo=MySQL&logoColor=white"><br>
+  
+  버전관리:
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-SVC-FF3E00?logo=GitHub&logoColor=white">
+</div>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343&theme=buefy&show_icons=true)](https://github.com/dongjun6343/github-readme-stats)
