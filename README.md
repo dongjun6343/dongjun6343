@@ -3,7 +3,7 @@
 <br>
 
 #### ✨ 기억보단 기록
-#### ✨ Today I Learned. 그날그날 내가 공부한 것을 정리하자! [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dongjun6343.github.io/)](https://dongjun6343.github.io/)
+#### ✨ Today I Learned. 그날그날 내가 공부한 것을 정리하자! [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dongjun6343.github.io/)](https://dongjun6343.github.io/)
 
 <br>
 
