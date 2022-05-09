@@ -48,14 +48,14 @@ https://simpleicons.org/
 
 
 ### 🛠️ Tool
-  <!-- IDE -->
+  
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=">
   
-  <!-- DB툴 -->
+  
   <img src="https://img.shields.io/badge/-SQL Developer-F80000?logo=oracle&logoColor=">
 
   
-  <!-- 버전관리 -->
+  
   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-SVC-FF3E00?logo=SVC&logoColor=white">
 
 <br>
