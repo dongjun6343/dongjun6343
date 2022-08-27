@@ -1,8 +1,8 @@
-### Hi there 👋 My name is Dongjun. 
+### HI 👋  
 
 <br>
 
-#### ✨ Today I Learned. 그날그날 내가 공부한 것을 정리하자! [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dongjun6343.github.io/)](https://dongjun6343.github.io/)
+#### ✨ Today I Learned.[![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dongjun6343.github.io/)](https://dongjun6343.github.io/)
 
 <br>
 
@@ -13,7 +13,7 @@
 
 ### 📫 Skill  
   <!-- 자바 -->
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor="> 
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor="> <img src="https://img.shields.io/badge/-SQL-F80000?logo=oracle&logoColor=">
   
 <br>
 
