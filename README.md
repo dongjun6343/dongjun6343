@@ -24,11 +24,6 @@
 |정보처리기사|2019.05|한국산업인력공단|
 
 <br>
-<a href="https://github.com/dongjun6343"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjun6343&count_bg=%233DB2C8&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343&theme=buefy&show_icons=true)](https://github.com/dongjun6343/github-readme-stats)
-
 <br>
 <br>
 
@@ -36,6 +31,14 @@
 
 
 <!--
+
+<a href="https://github.com/dongjun6343"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjun6343&count_bg=%233DB2C8&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjun6343&theme=buefy&show_icons=true)](https://github.com/dongjun6343/github-readme-stats)
+
+
+
 **dongjun6343/dongjun6343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
