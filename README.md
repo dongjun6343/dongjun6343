@@ -6,13 +6,13 @@
 <br>
 
 ### 🌱 Study
-<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Security-6DB33F?logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/-Kafka-231F20?logo=Apache Kafka&logoColor="> 
+ <img src="https://img.shields.io/badge/-Spring Security-6DB33F?logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/-Kafka-231F20?logo=Apache Kafka&logoColor="> 
  
 <br>
 
 ### 📫 Skill  
   <!-- 자바 -->
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor="> <img src="https://img.shields.io/badge/-SQL-F80000?logo=oracle&logoColor=">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor="> <img src="https://img.shields.io/badge/-SQL-F80000?logo=oracle&logoColor="> <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/-JUnit5-#25A162?logo=JUnit5&logoColor=white">
   
 <br>
 
