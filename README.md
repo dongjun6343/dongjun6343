@@ -3,18 +3,6 @@
 ### 💬 Today I Learned.
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dongjun6343.github.io/)](https://dongjun6343.github.io/)
 
-<br>
-
-### 🌱 Study
- <img src="https://img.shields.io/badge/-Spring Security-6DB33F?logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/-Kafka-231F20?logo=Apache Kafka&logoColor="> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=Kotlin&logoColor=white"> 
- 
-<br>
-
-### 📫 Skill  
-  <!-- 자바 -->
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor="> <img src="https://img.shields.io/badge/-SQL-F80000?logo=oracle&logoColor="> <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/-JUnit5-25A162?logo=JUnit5&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=">
-  
-<br>
 
 ### 📖 Certificate
 
@@ -31,6 +19,21 @@
 
 
 <!--
+기존에 쓰던 내용
+
+<br>
+
+### 🌱 Study
+ <img src="https://img.shields.io/badge/-Spring Security-6DB33F?logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/-Kafka-231F20?logo=Apache Kafka&logoColor="> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=Kotlin&logoColor=white"> 
+ 
+<br>
+
+### 📫 Skill  
+  <!-- 자바 -->
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor="> <img src="https://img.shields.io/badge/-SQL-F80000?logo=oracle&logoColor="> <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/-JUnit5-25A162?logo=JUnit5&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=">
+  
+<br>
+
 
 <a href="https://github.com/dongjun6343"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjun6343&count_bg=%233DB2C8&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 <br>
