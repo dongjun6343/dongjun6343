@@ -3,7 +3,7 @@
 
 
 ### 💬 Today I Learned.
-[![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dongjun6343.github.io/)]([https://dongjun6343.github.io/](https://dongjun6343.github.io/itpe-mindmap.html))
+[![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://dongjun6343.github.io/)]([https://dongjun6343.github.io/])
 
 
 ### 📖 Certificate
